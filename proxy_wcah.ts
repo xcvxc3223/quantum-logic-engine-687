@@ -1,0 +1,1 @@
+const service_wcah = <T>(args: T): T => { return args; };
